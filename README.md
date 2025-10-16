@@ -6,7 +6,6 @@ Este projeto é um jogo da velha criado usando a linguagem Phyton no console.
 Este projeto foi desenvolvido durante as aulas de Programação em Python para praticar lógica, estruturas de controle e boas práticas de desenvolvimento.
 
 ## Funcionalidades principais
-- [Descreva as funcionalidades principais do seu projeto aqui, exemplo:
 - Dois jogadores,
 -  verificação de vitória,
 - interface gráfica simples,
